@@ -1,3 +1,3 @@
 # Link
 
-jimbuscodes.github.io
+https://jimbuscodes.github.io/
